@@ -1,5 +1,6 @@
 export async function GET() {
   return Response.json({
-    system: 'ok'
+    system: 'ok',
+    AJC: process.env.AJC ?? '___'
   })
 }
