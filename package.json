@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "swr": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "zod": "latest"
+  }
+}
